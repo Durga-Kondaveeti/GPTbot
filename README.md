@@ -1,6 +1,4 @@
-# gpt2bot
 
-<img src="https://github.com/polakowo/gpt2bot/blob/master/logo.png?raw=true" width=128>
 
 # GPTbot
 
