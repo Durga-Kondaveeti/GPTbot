@@ -1,4 +1,3 @@
-# gpt2bot
 
 
 # GPTbot
